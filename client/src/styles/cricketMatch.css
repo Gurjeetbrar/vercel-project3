@@ -1,0 +1,48 @@
+/* Add this CSS to your existing stylesheet */
+
+.iconContainer {
+    display: inline-flex;
+    align-items: center;
+    margin-left: 5px;
+  }
+  .match-heading{
+    font-size: 2rem;
+    color: #FFFA93
+  }
+  
+  .mapLink {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+    display: inline-flex;
+    align-items: center;
+    transition: color 0.3s;
+  }
+  
+  .mapIcon {
+    height: 1.5rem;
+    margin-left: 5px;
+  }
+  
+  .linkContainer {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+  }
+  @media (max-width: 500px) {
+    .mapLink{
+        font-size: .5rem;
+    }
+    .mapIcon {
+        height: 1rem;
+        margin-left: 2px;
+      }
+    .linkContainer{
+        margin-top: .6rem;
+    }
+    .match-heading{
+        font-size: 1.2rem;
+    }
+      
+  }
+  

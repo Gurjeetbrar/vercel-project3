@@ -1,0 +1,102 @@
+/* footer.css */
+
+/* Footer container */
+.footer-container {
+    background-color: #000;
+    padding: 20px;
+    text-align: center;
+    display: block;
+    width: 100%;
+  }
+  
+  /* Footer logo */
+  .footer-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .logoImg {
+    height: 3rem;
+    margin-right: 10px;
+  }
+  
+  .footer-title {
+    color: white;
+    font-size: 2rem;
+  }
+  
+  /* Made with ❤️ */
+  .footer-made-with {
+    color: white;
+    padding: 1rem;
+    font-size: 1.2rem;
+  }
+  
+  /* Footer info */
+  .footer-info {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  /* Contact container */
+  .contact-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .contact-item {
+    margin: 0 20px;
+    color: white;
+  }
+  
+  /* Footer text */
+  .footer-text {
+    color: white;
+  }
+  
+  /* Footer social */
+  .footer-social {
+    justify-content: center;
+    margin-top: .7rem;
+    margin-bottom: 1rem;
+  }
+  
+  .social-link {
+    color: white;
+    margin: 0 8px;
+    font-size: 18px;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .social-link:hover {
+    color: #007bff;
+  }
+  @media (max-width: 500px) {
+    .footer-container{
+        font-size: .5rem;
+    }
+    .footer-title{
+        font-size: .8rem;
+    }
+    .logoImg{
+        height: 1.3rem;
+    }
+    .footer-made-with{
+        font-size: .7rem;
+        padding: .5rem;
+    }
+    .footer-social {
+        margin-top: .4rem;
+        margin-bottom: .5rem;
+      }
+      .footer-info{
+        margin: .6rem 0rem 0rem 0rem;
+      }
+      .contact-container {
+        margin-bottom: 0rem;
+      }
+  }  

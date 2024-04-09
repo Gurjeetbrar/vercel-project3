@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d6abd35.css",
+    "main.js": "/static/js/main.b5a5f265.js",
+    "static/js/787.6d4e16ce.chunk.js": "/static/js/787.6d4e16ce.chunk.js",
+    "static/media/Accessibility.jpg": "/static/media/Accessibility.7551bf68ae71d5b9b753.jpg",
+    "static/media/cricketPlayer3.png": "/static/media/cricketPlayer3.b8ea64909b5e673049e5.png",
+    "static/media/cricketProject3.jpg": "/static/media/cricketProject3.efcf42285b44159d6f03.jpg",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/Logo.png": "/static/media/Logo.b7c56d65a459ed43db63.png",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/Subscription.png": "/static/media/Subscription.3b1faad48a58d22c6e44.png",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/cricketPassion.jpg": "/static/media/cricketPassion.41919a8adec2c70c0aa6.jpg",
+    "static/media/google-maps.png": "/static/media/google-maps.76262c7c2097bbf3a02f.png",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/index.html",
+    "main.1d6abd35.css.map": "/static/css/main.1d6abd35.css.map",
+    "main.b5a5f265.js.map": "/static/js/main.b5a5f265.js.map",
+    "787.6d4e16ce.chunk.js.map": "/static/js/787.6d4e16ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d6abd35.css",
+    "static/js/main.b5a5f265.js"
+  ]
+}
